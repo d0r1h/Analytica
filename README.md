@@ -1,5 +1,5 @@
 # AutoEDA
-Aautomated Exploratory Data Analysis in Python 
+Automated Exploratory Data Analysis in Python 
 
 
   Python library to perform Exploratory Data Analysis in single go.
